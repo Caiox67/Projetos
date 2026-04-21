@@ -1,0 +1,45 @@
+* {
+    border: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui;
+  background: white;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+#H1{
+  font-size: 16pt;
+  background: black;
+  color: white;
+  text-align: left;
+  padding: 40px;
+}
+
+#IMG{
+  position: absolute;
+  margin-top: -18vh;
+  margin-left: 84vw;
+}
+
+#MAIN{
+  background: white;
+  color: black;
+  text-align: left;
+  padding: 40px;
+  padding-top: 20px
+}
+
+.tudo{
+  box-sizing: border-box;
+  padding: 20px;
+  padding-top: 10px;
+  margin: 10px;
+  color: white;
+  background-color: black;
+  border: 2px solid #ccc;
+}
