@@ -22,7 +22,7 @@ body {
 
 #IMG{
   position: absolute;
-  margin-top: -18vh;
+  margin-top: -13.8vh;
   margin-left: 84vw;
 }
 
@@ -31,7 +31,7 @@ body {
   color: black;
   text-align: left;
   padding: 40px;
-  padding-top: 20px
+  padding-top: 20px;
 }
 
 .tudo{
@@ -42,4 +42,8 @@ body {
   color: white;
   background-color: black;
   border: 2px solid #ccc;
+}
+
+.tudo:hover{
+  transform: scale(1.02);
 }
